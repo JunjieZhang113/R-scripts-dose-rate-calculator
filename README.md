@@ -6,5 +6,5 @@ R scripts for dose rate calculation in trapped charge dating (OSL, TL, ESR), pre
 
 Directory structure:
 * `/doserate_rProject` - R codes and template csv file for dose rate calculation in trapped charge dating
-* `/Zhang and Tsukamoto _ R scripts for dose rate calculation in trapped charge dating` - descriptions of the R scripts
+* `/Zhang_and_Tsukamoto_2025_doserate_calculator_R` - Descriptions of the R scripts. It is a manuscript submitted to Ancient TL in June 2025.
 * `/doserate_rProject/doserate_main.R` - The main R script for dose rate calculation for quartz and feldspar

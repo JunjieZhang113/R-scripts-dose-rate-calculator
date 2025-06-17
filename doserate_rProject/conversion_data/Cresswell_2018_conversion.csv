@@ -1,0 +1,5 @@
+Cresswell2018,U_alpha,U_beta,U_gamma,Th_alpha,Th_beta,Th_gamma,K_beta,K_gamma
+preRn,1.27,0.056,0.0037,0.738,0.028,0.0489,0.835,0.248
+preRn_err,0.01,0.001,0.0001,0.004,0.001,0.0003,0.008,0.003
+afterRn,1.52,0.086,0.1083,,,,,
+afterRn_err,0.02,0.002,0.001,,,,,

@@ -1,0 +1,5 @@
+Liritzis2013,U_alpha,U_beta,U_gamma,Th_alpha,Th_beta,Th_gamma,K_beta,K_gamma
+preRn,1.265,0.0602,0.0044,0.7375,0.0275,0.0481,0.8011,0.2498
+preRn_err,0.011,0.0002,0.0001,0.0026,0.0009,0.0002,0.0073,0.0048
+afterRn,1.528,0.0857,0.1074,,,,,
+afterRn_err,0.011,0.0004,0.0002,,,,,

@@ -18,6 +18,5 @@ Directory structure:
 * `/doserate_rProject/doserate_homogeneous_carbonate` - The folder of R scripts for dose rates of carbonates in an infinite homogeneous medium
  
 * `/doserate_rProject/doserate_homogeneous_carbonate/correction_for_238U_disequilibrium` - The folder of R scripts for simulating dose rate change with time after carbonate crystallization
- 
-* `/Zhang_and_Tsukamoto_2025_R_scripts_doserate.pdf` - Descriptions of the R scripts. It is a manuscript submitted to Ancient TL in June 2025
+
 

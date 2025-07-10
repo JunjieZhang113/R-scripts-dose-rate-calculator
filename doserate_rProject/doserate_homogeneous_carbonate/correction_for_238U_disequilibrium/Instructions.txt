@@ -1,9 +1,0 @@
-These three scripts are for one speleothem sample (LUM4347) in Zhang et al. (2024).
-
-Dose rate simulation.R simulates the dose rate change over time (due to U series disequilibrium) since the speleothem crystallization.
-
-Age iteration.R uses the iteration method to correct for the apparent age calculated from the dose rate at equilibrium. This method is based on Ikeya and Ohmura (1983).
-
-
-For details about dose rate simulation and age iteration, please refer to the refecence below:
-Zhang, J., Klose, J., Scholz, D., Marwan, N., Breitenbach, S.F.M., Katzschmann, L., Kraem-er, D., Tsukamoto, S., 2024. Isothermal thermoluminescence dating of speleothem growth - A case study from Ble?berg cave 2, Germany. Quaternary Geochronology 85, 101628. https://doi.org/10.1016/j.quageo.2024.101628 (open access)
